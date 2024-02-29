@@ -14,6 +14,9 @@ License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
 No WordPress account and user credentials to remember, login using any of the most popular 3 social media accounts!
 
+# == Description ==
+
+
 AccessPress Social Login lite-XT (eXTendend) - is a perfect <strong>Free WordPress plugin</strong> to allow your website users to register/login to the website using one of their favorite social website accounts.
 
 As a website owner, you can easily configure which social accounts to enable/disable for login, which areas of the website social login should be displayed (login, registration, comments). Also, you can select the social login buttons/icons from 4 beautifully designed templates to fit them with your website's overall design/theme. Your website will fetch real data from the user's social profile!
