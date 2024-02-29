@@ -94,7 +94,7 @@ if (version_compare(get_bloginfo('version'), '4.3.1', '>=')) {
 
             $message = sprintf(__('Username: %s'), $user->user_login) . "\r\n\r\n";
             $message .= __('To set your password, visit the following address:') . "\r\n\r\n";
-            $message .= '<' . network_site_url("/login-sviluppomania/?action=rp&key=$key&login=" . rawurlencode($user->user_login), 'login') . ">\r\n\r\n";
+            $message .= '<' . network_site_url("wp-login.php?action=rp&key=$key&login=" . rawurlencode($user->user_login), 'login') . ">\r\n\r\n";
 
             $message .= wp_login_url() . "\r\n\r\n";
             $message .= sprintf(__('If you have any problems, please contact us at %s.'), get_option('admin_email')) . "\r\n\r\n";
