@@ -14,8 +14,8 @@ License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
 No WordPress account and user credentials to remember, login using any of the most popular 3 social media accounts!
 
-# == Description ==
 
+# == Description ==
 
 AccessPress Social Login lite-XT (eXTendend) - is a perfect <strong>Free WordPress plugin</strong> to allow your website users to register/login to the website using one of their favorite social website accounts.
 
@@ -55,29 +55,29 @@ Select from 5 beautiful designs of social login buttons/icons.
 * Translation ready.
 
 
-== Installation ==
+# == Installation ==
 1. Unzip accesspress-social-login-lite-xt.zip
 2. Upload all the files to the /wp-content/plugins/accesspress-social-login-lite-xt
 3. Activate the plugin through the 'Plugins' menu in WordPress.
 4. For customizing the plugin's settings, click on AccessPress Social login lite menu in WordPress left admin menu.
 
-== Frequently Asked Questions ==
+# == Frequently Asked Questions ==
 = What does this plugin do? =
 This plugin provides the ability to allow anyone to login to your site using major social media (Facebook, Twitter, Google) by the use of the latest APIs on your website!
 
-= Will it affect my site's speed? =
+# = Will it affect my site's speed? =
 No, because we have integrated the plugin with the minimal codes to do the social login.
 
-= Do I need to design the icons again? =
+# = Do I need to design the icons again? =
 No, you won't need to get any trouble regarding design and layout of the icons since we have provided inbuilt 4 beautiful icon themes. You can choose any as per your requirement.
 
-= Can I use AccessPress social Login lite where ever I want? =
+# = Can I use AccessPress social Login lite where ever I want? =
 Yes. You can use the AccessPress social login lite anywhere by using the shortcode in your templates files or in posts and pages content. Also, you can use login widget in the sidebar.
 
-== Screenshots ==
+# == Screenshots ==
 1. Backend Networks settings section.
 
-== Changelog ==
+# == Changelog ==
 
 = 3.4.8 =
 * Checked compatibility with WordPress version 5.8.
