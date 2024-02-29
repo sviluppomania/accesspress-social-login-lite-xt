@@ -1,6 +1,7 @@
 # AccessPress Social Login Lite-XT (eXTended)
 
-Developed by: new AccessPress Social Login community, from AccessPress Social Login Lite by AccessPress Themes
+Developed by: new AccessPress Social Login community, from AccessPress Social Login Lite by AccessPress Themes 
+
 Contributors: SviluppoMania, Access Keys, AccessPress Themes  
 Tags: social,  login, social login, facebook, twitter, google, social connect, social network login, register, login with, signin, oauth, authorize, oauth
 Donate link: http://accesspressthemes.com/donation/  
